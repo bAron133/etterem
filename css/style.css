@@ -1,0 +1,40 @@
+.navbar-nav{
+    color: white;
+}
+
+.cim{
+    background-color: rgb(231, 233, 235);
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.etelek{
+    margin: 20px;
+}
+
+footer{
+    background-color: rgb(54, 52, 52);
+    color: white;
+    padding-bottom: 10px;
+
+}
+
+.etel{
+    width: 250px;
+    height: 200px;
+}
+
+.galeria{
+    width: 350px;
+    height: 300px;
+
+}
+
+.kepek{
+    margin: 70px
+}
